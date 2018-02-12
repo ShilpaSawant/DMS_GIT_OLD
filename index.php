@@ -1,3 +1,3 @@
 <?php 
-echo "Sicomddd Dms Shilpa ddd";
+echo "Sicomddd Dms";
 ?>
