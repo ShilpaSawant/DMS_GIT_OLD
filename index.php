@@ -1,3 +1,3 @@
 <?php 
-echo "Main Dms";
+echo "Localhost Main Dms";
 ?>
