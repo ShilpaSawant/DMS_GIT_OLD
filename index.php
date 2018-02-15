@@ -1,3 +1,3 @@
 <?php 
-echo "Dalmia Dms";
+echo "Local Dalmia Dms";
 ?>
