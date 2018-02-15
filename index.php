@@ -1,3 +1,3 @@
 <?php 
-echo "Sicom Dms";
+echo "Localhost Sicom Dms";
 ?>
