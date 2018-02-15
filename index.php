@@ -1,3 +1,3 @@
 <?php 
-echo "Shilpa new sicom changes";
+echo "Shilpa sawant index.php";
 ?>
